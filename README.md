@@ -36,9 +36,6 @@
 </p>
 <hr>
 
-<h4 align='center'>You can reach me here ...</h4>
-<p align='center'></h4>
-
 <img src="https://github.com/adam-burke0/adam-burke0/blob/master/wave.svg" />
 
 <p align='center'><a href="#"><img src="https://img.shields.io/github/license/adam-burke0/adam-burke0?style=for-the-badge" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
