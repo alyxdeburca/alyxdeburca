@@ -2,7 +2,7 @@
 
 <p align="center">
   <br><img src="https://github.com/adam-burke0/adam-burke0/blob/master/Developer.gif" width="450px"><br><br>
-  <samp> I'm a software developer from Galway, Ireland. I'm passionate about *NIX and have used GNU/Linux based operating systems for the past 2 and a half years. Most of the projects found on my 
+  <samp> I'm a software developer from Galway, Ireland. I'm passionate about *NIX and have used GNU/Linux based operating systems for the past 2 and a half years. Most of the projects found on my GitHub
   </samp>
   <br>
   
