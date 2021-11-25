@@ -1,25 +1,4 @@
-<style>
-.waving-hand {
-  animation-name: wave-animation;
-  animation-duration: 2.5s;
-  animation-iteration-count: infinite;
-  transform-origin: 70% 70%;
-  display: inline-block;
-}
-
-@keyframes wave-animation {
-  0% { transform: rotate( 0.0deg) }
-  15% { transform: rotate(14.0deg) }  /* The following five values can be played with to make the waving more or less extreme */
-  30% { transform: rotate(-8.0deg) }
-  40% { transform: rotate(14.0deg) }
-  50% { transform: rotate(-4.0deg) }
-  60% { transform: rotate(10.0deg) }
-  70% { transform: rotate( 0.0deg) }  /* Reset for the last half to pause */
- 100% { transform: rotate( 0.0deg) }
-}
-</style>
-
-<h2 align='center'> Hi, I'm Alyx <span class="waving-hand">👋</span> 🧑🏻‍💻 </h2>
+<h2 align='center'> Hi, I'm Alyx 👋🧑🏻‍💻 </h2>
 
 <p align="center">
   <br><img src="https://github.com/alyxdeburca/alyxdeburca/blob/master/Developer.gif" width="450px"><br><br>
@@ -40,7 +19,7 @@
 
 <p align='center'>
   <a href="https://twitter.com/alyxvanced"><img src="https://img.shields.io/twitter/url?style=for-the-badge&logo=twitter&url=https%3A%2F%2Ftwitter.com%2Falyxvanced" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:alyx@alyx.site"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:alyx@alyx.site"><img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <hr>
@@ -59,5 +38,5 @@
 
 <img src="https://github.com/alyxdeburca/alyxdeburca/blob/master/wave.svg" />
 
-<p align='center'><a href="#"><img src="https://img.shields.io/github/license/adam-burke0/adam-burke0?style=for-the-badge" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<p align='center'><a href="#"><img src="https://img.shields.io/github/license/alyxdeburca/alyxdeburca?style=for-the-badge" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   </p>
