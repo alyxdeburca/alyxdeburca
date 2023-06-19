@@ -9,7 +9,7 @@
 </p>
 
 <h4 align='center'>About Me ...</h4>
-  <p align='center'>I'm 18, I'm Non-Binary and my pronouns are he/they</p>
+  <p align='center'>I'm 19, I'm Non-Binary and my pronouns are he/they</p>
 
 <hr>
 
