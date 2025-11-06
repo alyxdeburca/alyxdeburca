@@ -9,7 +9,7 @@
 </p>
 
 <h4 align='center'>About Me ...</h4>
-  <p align='center'>I'm 19, I'm Non-Binary and my pronouns are he/they</p>
+  <p align='center'>I'm 21 and a chopped chud</p>
 
 <hr>
 
@@ -18,7 +18,7 @@
 
 
 <p align='center'>
-  <a href="https://twitter.com/alyxvanced"><img src="https://img.shields.io/twitter/url?style=for-the-badge&logo=twitter&url=https%3A%2F%2Ftwitter.com%2Falyxvanced" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/anotheralyx"><img src="https://img.shields.io/twitter/url?style=for-the-badge&logo=twitter&url=https%3A%2F%2Ftwitter.com%2Falyxvanced" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:alyx@alyx.site"><img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
