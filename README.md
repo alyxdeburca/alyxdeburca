@@ -9,7 +9,7 @@
 </p>
 
 <h4 align='center'>About Me ...</h4>
-  <p align='center'>I'm 21 and a chopped chud</p>
+  <p align='center'>I'm 22 and unemployed</p>
 
 <hr>
 
